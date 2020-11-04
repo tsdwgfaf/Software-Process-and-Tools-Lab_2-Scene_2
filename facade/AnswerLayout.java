@@ -15,6 +15,9 @@ import java.util.List;
 import java.util.concurrent.ScheduledThreadPoolExecutor;
 import java.util.concurrent.TimeUnit;
 
+/**
+ * 答题界面，包括题目显示、数字键盘等
+ */
 public class AnswerLayout {
     private JPanel rootPanel;
     private JTextField questionField;
