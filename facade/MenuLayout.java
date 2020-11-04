@@ -5,6 +5,9 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
+/**
+ * 菜单界面
+ */
 public class MenuLayout {
 
     private JButton practiceButton;
