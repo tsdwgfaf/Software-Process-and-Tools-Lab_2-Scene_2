@@ -6,6 +6,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 /**
+<<<<<<< HEAD
  * 菜单界面
  */
 public class MenuLayout {
